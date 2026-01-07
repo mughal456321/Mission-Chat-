@@ -1,0 +1,7 @@
+{
+  "name": "Copy of STRIKE TEAM ECHO: Tactical Comms",
+  "description": "A high-fidelity military simulation chat interface that transforms standard messaging into tactical operations. Features AI-driven command intel, NATO brevity code translation, and a rugged HUD-style interface.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
